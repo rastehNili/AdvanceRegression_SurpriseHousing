@@ -22,8 +22,7 @@ You are required to    Further,
 - The model will be a good way for management to understand the pricing dynamics of a new market.
 
 ## Table of Contents
-* [Technologies Used](#technologies-used)
-* Python
+* [Technologies Used](#technologies-used) : Python
 
 ### Contributors
 -Rasteh Nili
